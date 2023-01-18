@@ -38,11 +38,11 @@ content="""
 <body>
 <h1>Top five web application development frameworks.</h1>
      <ol>
-      <li>React js</li>
-      <li>Django </li>
-      <li>Node js </li>
-      <li>Larvarel </li>
-      <li>Angular JS </li>
+      <li>django</li>
+      <li>MEAN Stack</li>
+      <li>MERN Stack</li>
+      <li>ASP.NET core</li>
+      <li>Spring Framework</li>
       </ol>
 
 </body>
@@ -66,16 +66,15 @@ httpd.serve_forever()
 ## OUTPUT:
    
    # Top five web application development frameworks.
-     1. React js
-     2. Django
-     3. Node js
-     4. Larvarel
-     5. Angular JS
+     1. django
+     2.MEAN Stack
+     3.MERN Stack
+     4.ASP.NET core
+     5.Spring Framework
  
  
  
- 
- ![GitHub Logo](file:///home/sec/Pictures/Screenshots/serveroutput.png)
+ ![GitHub Logo](/images/d.png)
      
      
    
